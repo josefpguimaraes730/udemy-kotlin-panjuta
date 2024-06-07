@@ -1,4 +1,4 @@
-package br.jguimaraes.myfirstapp
+package br.jguimaraes.kotlinbasics
 
 import org.junit.Test
 

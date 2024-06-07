@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "myfirstapp"
+rootProject.name = "kotlinBasics"
 include(":app")
