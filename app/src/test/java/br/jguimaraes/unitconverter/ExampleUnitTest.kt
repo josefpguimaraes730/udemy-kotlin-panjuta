@@ -1,4 +1,4 @@
-package br.jguimaraes.basics
+package br.jguimaraes.unitconverter
 
 import org.junit.Test
 
