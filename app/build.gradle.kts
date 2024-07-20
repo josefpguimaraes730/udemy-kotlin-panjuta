@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "br.jguimaraes.kotlinbasics"
+    namespace = "br.jguimaraes.basics"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "br.jguimaraes.kotlinbasics"
+        applicationId = "br.jguimaraes.basics"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
